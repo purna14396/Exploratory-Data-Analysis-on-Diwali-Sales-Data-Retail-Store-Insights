@@ -3,6 +3,12 @@
 
 This project presents an **Exploratory Data Analysis (EDA)** of a retail store’s **Diwali sales data** to uncover valuable business insights about customer behavior, sales performance, and product preferences.
 
+## 📘 View Full Notebook on Kaggle
+
+You can explore the complete analysis and visualizations in the interactive Kaggle notebook:
+
+🔗 **[Exploratory Data Analysis on Diwali Sales Data – View on Kaggle](https://www.kaggle.com/code/purna14396/exploratory-data-analysis-on-diwali-sales-data)**
+
 ---
 
 ## 📌 Objective
