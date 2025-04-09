@@ -44,11 +44,17 @@ Key columns:
 
 ### 🎯 Customer Demographics
 - **Majority of customers** are **females** (7,832 vs 3,407 males).
+![Gender Count](images/gender_countplot.png)
+
 - **Unmarried individuals** are more frequent buyers (6,518 vs 4,721 married).
+![Gender Count](images/gender_countplot.png)
+
 - The **26–35 age group** is the most active, generating ₹4.26 Cr in revenue.
+![Gender Count](images/gender_countplot.png) 
 
 ### 🌍 State-wise Insights
 - **Top revenue-generating states**: Maharashtra, Uttar Pradesh, Karnataka.
+![Gender Count](images/gender_countplot.png)
 - **Lowest** revenue: Madhya Pradesh with ₹0.81 Cr.
 
 ### 🧑‍💼 Occupation Trends
@@ -65,23 +71,3 @@ Key columns:
 
 ---
 
-## 🖼️ Suggested Output Images for GitHub
-
-Add the following key visualizations as images in the `images/` folder and embed them here:
-
-| 🔍 Insight                                  | 📷 Suggested Plot (Filename)              |
-|--------------------------------------------|-------------------------------------------|
-| Gender-wise Purchase Count                 | `gender_countplot.png`                    |
-| Marital Status Distribution                | `marital_status_pie.png`                  |
-| Age Group vs Revenue                       | `age_group_revenue_bar.png`               |
-| State-wise Revenue                         | `state_revenue_bar.png`                   |
-| Occupation vs Revenue                      | `occupation_revenue_bar.png`              |
-| Product Category Order Count               | `product_category_orders_bar.png`         |
-| Revenue by Product Category                | `product_category_revenue_bar.png`        |
-| Gender-wise Revenue Contribution           | `gender_revenue_bar.png`                  |
-
-Embed examples like:
-
-```markdown
-### 🧑‍🤝‍🧑 Gender-wise Customer Distribution
-![Gender Count](images/gender_countplot.png)
